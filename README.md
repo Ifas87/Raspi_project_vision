@@ -9,3 +9,6 @@ How it would have worked:
 4. Finally the last switch just opens and closes the entire system.
 
 The project is meant to be an attachment a person with vision difficulties would strap onto their walking stick and plug into their ear via the headphone jack. The module would have come with a replacable battery.
+
+Note: Also, the main.py provided does not belong to this project. it is from bitBybit and was misplaced into this repository. It might be an explanation as to why the main.py file that would have controlled the entire project is missing in the first place,
+maybe i just replaced it accidentally with one from another project
